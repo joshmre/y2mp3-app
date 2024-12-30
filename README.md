@@ -4,6 +4,12 @@ This project is a simple YouTube to MP3 converter application. It allows users t
 
 ---
 
+## Demo
+
+Watch the video demo here: [YouTube to MP3 Converter Demo](https://youtu.be/ZPlPMopXbe0)
+
+---
+
 ## Disclaimer
 
 This application is **for educational purposes only**. It is not intended for commercial use or activities that may infringe on copyright laws or the intellectual property rights of others. Please ensure compliance with all applicable laws and platform terms of service before using this application.
@@ -81,7 +87,7 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## Notes
+## Notes for Reviewers
 
 - The application does not require an API key to function.
 - To evaluate this application, please clone the repository and run it locally as per the instructions above.
